@@ -1,0 +1,96 @@
+.header{
+    text-align: center;
+}
+#logo {
+    width: 10%;
+    margin-bottom: 10px;
+    }
+  
+.testo {
+    text-align: center;
+    padding: 10px 0;
+    color: rgb(52, 86, 76);
+    font-size: 10px;
+    background-color:rgb(254, 249, 238);
+    border-top: 1px solid rgb(255, 220, 145);
+    }
+    .main{
+        text-align: center;
+    }
+  
+ .span1{
+    font-weight: bold;
+    }
+  
+    h1{
+   font-size: 28px;
+   text-align: center;
+   margin-top: 20px;
+   
+  }
+ 
+p{
+    font-size: medium;
+    font-weight: normal;
+
+}
+.principalimage{
+    text-align: center;
+}
+.principalimage img{
+    height: 500px;
+}
+  
+figcaption {
+    font-size: 18px;
+    color: #000; 
+    opacity: 0.6; 
+    margin-block: 15px;
+   }
+   .featured {
+     border-left: 1px solid rgb(248, 207, 119); 
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding-left: 20px; 
+    text-align: left; 
+    margin-top: 20px;
+} 
+    
+    .featured span {
+        font-size: 15px;
+        color: rgb(189, 45, 45);
+    }
+    .featured-link {
+        display: block;
+        color: rgb(40, 160, 120);
+}
+.ingredients{
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding-left: 20px; 
+    text-align: left; 
+    margin-top: 20px;
+    font-size: small;
+}
+.ingredients1 ul li{
+    margin-bottom: 15px;
+}
+.ingredients2 ul li {
+    margin-bottom: 15px;
+}
+h2{
+    border-bottom: 0.5px solid rgb(149, 221, 250);
+}
+.finallist li{
+    font-weight: bold;
+}
+.readmore{
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding-left: 20px; 
+    text-align: left; 
+    font-size: small;
+}
+.readmorelink{
+    color: rgb(6, 131, 90);
+}
